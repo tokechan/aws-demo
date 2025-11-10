@@ -2,6 +2,6 @@
 
 ## frontend 
 - React
-- React Router v7
+- vite
 
 ```npx create-react-router@latest```
